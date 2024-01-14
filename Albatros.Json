@@ -2,7 +2,9 @@
   "wallpapers": [
    {
     "author": "Pinterest",
-      "url": "https://raw.githubusercontent.com/2devCorp/Albatros-Fondos-de-pantalla-/Maestro/Wall%20001.jpg"
-}
+      "url": "https://raw.githubusercontent.com/2devCorp/Albatros-Fondos-de-pantalla-/Maestro/Wall%20001.png",
+      "name": "Wall 001",
+      "thumbnail": "https://raw.githubusercontent.com/2devCorp/Albatros-Fondos-de-pantalla-/Maestro/Wall%20001.jpg"
+ }
  ]
 }
